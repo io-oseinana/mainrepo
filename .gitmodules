@@ -1,3 +1,6 @@
 [submodule "subrepo"]
 	path = subrepo
 	url = ./subrepo/
+[submodule "subrepo2"]
+	path = subrepo2
+	url = ./subrepo/
